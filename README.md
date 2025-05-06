@@ -35,3 +35,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # prueba_tecnica_siac
+
+# IMPORTANTE estas serian las variables de entorno
+NEXT_PUBLIC_USERNAME=Test123
+NEXT_PUBLIC_PASSWORD=password@2
+NEXT_PUBLIC_URL_API=https://rickandmortyapi.com/api
